@@ -1,2 +1,2 @@
 # Agente-l-gico-en-el-mundo-de-Wumpus
-el sebas es puto 
+El proyecto consiste en construir una pequeña plataforma experimental donde un agente lógico explora un mundo de Wumpus de tamaño finito (por ejemplo, 4×4 o 5×5). El entorno se genera de forma automática, el conocimiento se representa mediante una base de conocimiento proposicional (KB) construida a partir de reglas y percepciones, y las decisiones del agente se obtienen mediante inferencia lógica. El objetivo es que el agente pueda determinar qué casillas son seguras, cuáles contienen peligro probable y cuándo es racional avanzar o usar la flecha.
